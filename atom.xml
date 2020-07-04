@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://github.com/jieruypoe/jieruypoe.github.io.git</id>
+    <id>https://https://jieruypoe.github.io</id>
     <title>捷捷捷捷的小摊</title>
-    <updated>2020-07-04T02:35:02.719Z</updated>
+    <updated>2020-07-04T02:37:36.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://github.com/jieruypoe/jieruypoe.github.io.git"/>
-    <link rel="self" href="https://https://github.com/jieruypoe/jieruypoe.github.io.git/atom.xml"/>
+    <link rel="alternate" href="https://https://jieruypoe.github.io"/>
+    <link rel="self" href="https://https://jieruypoe.github.io/atom.xml"/>
     <subtitle>这里出售捷捷捷捷的各种私货，欢迎您的光临！</subtitle>
-    <logo>https://https://github.com/jieruypoe/jieruypoe.github.io.git/images/avatar.png</logo>
-    <icon>https://https://github.com/jieruypoe/jieruypoe.github.io.git/favicon.ico</icon>
+    <logo>https://https://jieruypoe.github.io/images/avatar.png</logo>
+    <icon>https://https://jieruypoe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 捷捷捷捷的小摊</rights>
     <entry>
         <title type="html"><![CDATA[欢迎大家的光临！！！]]></title>
-        <id>https://https://github.com/jieruypoe/jieruypoe.github.io.git/post/huan-ying-da-jia-de-guang-lin/</id>
-        <link href="https://https://github.com/jieruypoe/jieruypoe.github.io.git/post/huan-ying-da-jia-de-guang-lin/">
+        <id>https://https://jieruypoe.github.io/post/huan-ying-da-jia-de-guang-lin/</id>
+        <link href="https://https://jieruypoe.github.io/post/huan-ying-da-jia-de-guang-lin/">
         </link>
         <updated>2020-07-03T13:17:19.000Z</updated>
         <content type="html"><![CDATA[<p>这里会有捷捷捷捷的新鲜想法与你一起分享！</p>
