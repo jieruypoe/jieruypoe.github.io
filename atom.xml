@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jieruypoe.github.io</id>
-    <title>捷捷捷捷的小摊</title>
-    <updated>2020-07-04T02:49:07.845Z</updated>
+    <title>捷捷捷捷的小站</title>
+    <updated>2020-07-04T04:24:00.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jieruypoe.github.io"/>
     <link rel="self" href="https://jieruypoe.github.io/atom.xml"/>
-    <subtitle>这里出售捷捷捷捷的各种私货，欢迎您的光临！</subtitle>
+    <subtitle>这里是捷捷捷捷的小站！兜售捷捷捷捷的各种新鲜私货，偶有卖艺（×，欢迎您的光临！</subtitle>
     <logo>https://jieruypoe.github.io/images/avatar.png</logo>
     <icon>https://jieruypoe.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 捷捷捷捷的小摊</rights>
+    <rights>All rights reserved 2020, 捷捷捷捷的小站</rights>
     <entry>
         <title type="html"><![CDATA[欢迎大家的光临！！！]]></title>
         <id>https://jieruypoe.github.io/post/huan-ying-da-jia-de-guang-lin/</id>
